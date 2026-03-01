@@ -33,7 +33,6 @@ The trainig code is provided in the "train" directory.
 
 
 ```
-git clone https://github.com/russelsa/mm-vap
 cd MCBF/train
 python -r requirement.txt
 ```
